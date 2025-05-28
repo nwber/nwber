@@ -1,4 +1,12 @@
-### Hi there 👋
+### Nick Bergeron
+
+SRE trying his best. I have a good amount of infra experience, but want to get better at this dev stuff.
+
+I'm currently learning Python and a bit of Go. Some good(?) examples of my work are here:
+
+- [jorts](https://github.com/nwber/jorts), a url shortener running on CloudFlare workers.
+- [garfacts](https://github.com/nwber/garfacts), a FastAPI app that returns facts about Garfield the cat. Pipelines are a WIP.
+- [heartbeat-go](https://github.com/nwber/heartbeat-go), health check CLI tool (a bit old)
 
 <!--
 **nwber/nwber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
