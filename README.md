@@ -2,6 +2,8 @@
 
 SRE trying his best. I have a good amount of infra experience, but want to get better at this dev stuff.
 
+I post occasionally on [blog.nbergeron.dev](http://blog.nbergeron.dev/).
+
 I'm currently learning Python and a bit of Go. Some good(?) examples of my work are here:
 
 - [jorts](https://github.com/nwber/jorts), a url shortener running on CloudFlare workers.
